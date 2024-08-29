@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\Project\Bullet Simulation\main.cpp(11,85): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+D:\Project\Bullet Simulation\main.cpp(11,85): warning C4244:         with
+D:\Project\Bullet Simulation\main.cpp(11,85): warning C4244:         [
+D:\Project\Bullet Simulation\main.cpp(11,85): warning C4244:             _Rep=__int64
+D:\Project\Bullet Simulation\main.cpp(11,85): warning C4244:         ]
+  Bullet Simulation.vcxproj -> D:\Project\Bullet Simulation\x64\Debug\Bullet Simulation.exe
